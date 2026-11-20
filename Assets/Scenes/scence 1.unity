@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 53192935}
   - component: {fileID: 53192934}
   m_Layer: 0
-  m_Name: New Audio Random Container
+  m_Name: "slumpm\xE4ssiga ljud"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
