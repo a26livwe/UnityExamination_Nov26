@@ -358,7 +358,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "En flicka vaknade upp i en fr\xE4mmande v\xE4rld hon vet inte var hon
-    \xE4r men hon m\xE5ste ta sig h\xE4r ifr\xE5n"
+    \xE4r men hon m\xE5ste ta sig h\xE4r ifr\xE5n. Ta dig till sluttet av plattformarna"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: fab4111b79aecd143a9423d416017d4c, type: 2}
   m_sharedMaterial: {fileID: -537086026599187760, guid: fab4111b79aecd143a9423d416017d4c, type: 2}
