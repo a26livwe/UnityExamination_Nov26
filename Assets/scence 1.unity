@@ -762,7 +762,7 @@ GameObject:
   m_Component:
   - component: {fileID: 307928672}
   m_Layer: 0
-  m_Name: UI
+  m_Name: Volymstyning------
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -811,7 +811,7 @@ GameObject:
   - component: {fileID: 360702093}
   - component: {fileID: 360702092}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: VOLUM rubrik
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -946,7 +946,7 @@ GameObject:
   m_Component:
   - component: {fileID: 415906390}
   m_Layer: 0
-  m_Name: "f\xF6r att visa att det \xE4r halt"
+  m_Name: halyta--------
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1163,7 +1163,7 @@ GameObject:
   m_Component:
   - component: {fileID: 557804262}
   m_Layer: 0
-  m_Name: SFX
+  m_Name: SFX------------
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2040,7 +2040,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8398225657468631796, guid: 326e5f974bcb4a24aaa5329ad0fb16f4, type: 3}
       propertyPath: m_Name
-      value: Text (TMP)
+      value: sound number
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19369,7 +19369,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1564475128}
   m_Layer: 0
-  m_Name: MUSIK
+  m_Name: MUSIK--------
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19829,7 +19829,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 1, b: 1, a: 1}
+      maxColor: {r: 0.8867924, g: 0.2216981, b: 0.76812595, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -21795,11 +21795,11 @@ ParticleSystem:
         m_RotationOrder: 4
     m_Range: {x: 0, y: 1}
   ForceModule:
-    enabled: 0
+    enabled: 1
     x:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0
+      scalar: 2
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -21959,7 +21959,7 @@ ParticleSystem:
     randomizePerFrame: 0
   ExternalForcesModule:
     serializedVersion: 2
-    enabled: 1
+    enabled: 0
     multiplierCurve:
       serializedVersion: 2
       minMaxState: 0
@@ -22019,7 +22019,7 @@ ParticleSystem:
       m_Bits: 4294967295
     influenceList: []
   ClampVelocityModule:
-    enabled: 0
+    enabled: 1
     x:
       serializedVersion: 2
       minMaxState: 0
@@ -24370,13 +24370,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1785106220}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.500005, y: 0.49999496, z: -0.49999508, w: 0.500005}
-  m_LocalPosition: {x: 34.58, y: 0.19, z: 0}
+  m_LocalRotation: {x: -0.7070832, y: -0.0057794917, z: 0.0057794717, w: 0.70708317}
+  m_LocalPosition: {x: 33.3, y: 1.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -0.001, y: 90, z: -90}
+  m_LocalEulerAnglesHint: {x: -90.936, y: 90, z: -90}
 --- !u!1 &1842412253
 GameObject:
   m_ObjectHideFlags: 0
@@ -24642,7 +24642,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8398225657468631796, guid: 326e5f974bcb4a24aaa5329ad0fb16f4, type: 3}
       propertyPath: m_Name
-      value: Text (TMP)
+      value: sound number
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
