@@ -470,7 +470,7 @@ AudioSource:
   m_GameObject: {fileID: 172042656}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 8534515749908109428, guid: 10e7184d222c3b74eaddc7160025ed2d, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: f3409852555ed0745a62f9df454782e4, type: 3}
   m_PlayOnAwake: 1
@@ -644,7 +644,7 @@ AudioSource:
   m_GameObject: {fileID: 276825802}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 7713799684239924873, guid: 10e7184d222c3b74eaddc7160025ed2d, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 37aae137895d257479f3a81c3a111ed8, type: 3}
   m_PlayOnAwake: 1
@@ -788,6 +788,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 6217285475897093381, guid: 265acfa406acf7e4aa368acde2fd06b3, type: 3}
   m_PrefabInstance: {fileID: 8481088477966380482}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &325257933 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2718850682146697085, guid: 265acfa406acf7e4aa368acde2fd06b3, type: 3}
+  m_PrefabInstance: {fileID: 8481088477966380482}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1 &360702090
 GameObject:
   m_ObjectHideFlags: 0
@@ -2131,11 +2142,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6190564789980754702, guid: 326e5f974bcb4a24aaa5329ad0fb16f4, type: 3}
       propertyPath: m_text
-      value: volume
+      value: music
       objectReference: {fileID: 0}
     - target: {fileID: 8398225657468631796, guid: 326e5f974bcb4a24aaa5329ad0fb16f4, type: 3}
       propertyPath: m_Name
-      value: volume
+      value: music
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18654,7 +18665,7 @@ AudioSource:
   m_GameObject: {fileID: 1103372346}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 8534515749908109428, guid: 10e7184d222c3b74eaddc7160025ed2d, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: b809fbd3e549ad9438a78afd508b2da6, type: 3}
   m_PlayOnAwake: 1
@@ -18841,6 +18852,17 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1251184583}
   m_CullTransparentMesh: 1
+--- !u!114 &1302712709 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6190564789980754702, guid: 326e5f974bcb4a24aaa5329ad0fb16f4, type: 3}
+  m_PrefabInstance: {fileID: 1993298635}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1 &1310449333
 GameObject:
   m_ObjectHideFlags: 0
@@ -18989,6 +19011,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1364244666}
   - component: {fileID: 1364244667}
+  - component: {fileID: 1364244668}
   m_Layer: 5
   m_Name: Slider
   m_TagString: Untagged
@@ -19068,7 +19091,36 @@ MonoBehaviour:
   m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1364244668}
+        m_TargetAssemblyTypeName: AudioSlider, Assembly-CSharp
+        m_MethodName: SetLevel
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1364244668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1364244665}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a5bb4fd973d4345b0b436721331648, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioSlider
+  mixer: {fileID: 24100000, guid: 10e7184d222c3b74eaddc7160025ed2d, type: 2}
+  audioMixerParameter: music
+  slider: {fileID: 1364244667}
+  sliderValueText: {fileID: 1302712709}
+  valueScaleType: 0
 --- !u!1 &1396623139
 GameObject:
   m_ObjectHideFlags: 0
@@ -19079,6 +19131,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1396623140}
   - component: {fileID: 1396623141}
+  - component: {fileID: 1396623142}
   m_Layer: 5
   m_Name: Slider
   m_TagString: Untagged
@@ -19158,7 +19211,36 @@ MonoBehaviour:
   m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1396623142}
+        m_TargetAssemblyTypeName: AudioSlider, Assembly-CSharp
+        m_MethodName: SetLevel
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1396623142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396623139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a5bb4fd973d4345b0b436721331648, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioSlider
+  mixer: {fileID: 24100000, guid: 10e7184d222c3b74eaddc7160025ed2d, type: 2}
+  audioMixerParameter: SFX
+  slider: {fileID: 1396623141}
+  sliderValueText: {fileID: 1904451205}
+  valueScaleType: 0
 --- !u!1 &1428062002 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5516057239979110471, guid: 9199e09d4d6a2ee4e931d7b38c0d8698, type: 3}
@@ -24305,6 +24387,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1842412254}
   - component: {fileID: 1842412255}
+  - component: {fileID: 1842412256}
   m_Layer: 5
   m_Name: Slider
   m_TagString: Untagged
@@ -24384,7 +24467,36 @@ MonoBehaviour:
   m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1842412256}
+        m_TargetAssemblyTypeName: AudioSlider, Assembly-CSharp
+        m_MethodName: SetLevel
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1842412256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1842412253}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a5bb4fd973d4345b0b436721331648, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioSlider
+  mixer: {fileID: 24100000, guid: 10e7184d222c3b74eaddc7160025ed2d, type: 2}
+  audioMixerParameter: master
+  slider: {fileID: 1842412255}
+  sliderValueText: {fileID: 325257933}
+  valueScaleType: 0
 --- !u!1 &1865502313
 GameObject:
   m_ObjectHideFlags: 0
@@ -24421,6 +24533,17 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1904451205 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6190564789980754702, guid: 326e5f974bcb4a24aaa5329ad0fb16f4, type: 3}
+  m_PrefabInstance: {fileID: 902477431}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1001 &1993298635
 PrefabInstance:
   m_ObjectHideFlags: 0
