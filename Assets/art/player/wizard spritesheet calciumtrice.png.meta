@@ -259,7 +259,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -273,7 +273,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -351,12 +351,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 159
-        width: 19
-        height: 161
+        x: 0
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -373,12 +373,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 159
-        width: 20
-        height: 161
+        x: 32
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -395,12 +395,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 223
-        width: 20
-        height: 97
+        x: 64
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -417,12 +417,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_3
       rect:
         serializedVersion: 2
-        x: 100
-        y: 159
-        width: 23
-        height: 161
+        x: 96
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -439,12 +439,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_4
       rect:
         serializedVersion: 2
-        x: 133
-        y: 255
-        width: 19
-        height: 65
+        x: 128
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -461,12 +461,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_5
       rect:
         serializedVersion: 2
-        x: 165
-        y: 223
-        width: 19
-        height: 97
+        x: 160
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -483,12 +483,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_6
       rect:
         serializedVersion: 2
-        x: 196
-        y: 223
-        width: 22
-        height: 97
+        x: 192
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -505,12 +505,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_7
       rect:
         serializedVersion: 2
-        x: 229
-        y: 191
-        width: 26
-        height: 129
+        x: 224
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -527,12 +527,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_8
       rect:
         serializedVersion: 2
-        x: 257
-        y: 271
-        width: 9
-        height: 11
+        x: 256
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -549,12 +549,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_9
       rect:
         serializedVersion: 2
-        x: 260
-        y: 223
-        width: 28
-        height: 97
+        x: 288
+        y: 288
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -571,12 +571,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_10
       rect:
         serializedVersion: 2
-        x: 277
-        y: 273
-        width: 10
-        height: 11
+        x: 0
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -593,12 +593,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_11
       rect:
         serializedVersion: 2
-        x: 287
-        y: 255
-        width: 33
-        height: 65
+        x: 32
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -615,12 +615,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_12
       rect:
         serializedVersion: 2
-        x: 69
-        y: 159
-        width: 21
-        height: 66
+        x: 64
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -637,12 +637,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_13
       rect:
         serializedVersion: 2
-        x: 131
-        y: 159
-        width: 25
-        height: 97
+        x: 96
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -659,12 +659,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_14
       rect:
         serializedVersion: 2
-        x: 163
-        y: 159
-        width: 28
-        height: 66
+        x: 128
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -681,12 +681,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_15
       rect:
         serializedVersion: 2
-        x: 199
-        y: 185
-        width: 19
-        height: 40
+        x: 160
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -703,12 +703,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_16
       rect:
         serializedVersion: 2
-        x: 263
-        y: 191
-        width: 18
-        height: 34
+        x: 192
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -725,12 +725,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_17
       rect:
         serializedVersion: 2
-        x: 294
-        y: 191
-        width: 18
-        height: 65
+        x: 224
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -747,12 +747,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_18
       rect:
         serializedVersion: 2
-        x: 195
-        y: 159
-        width: 23
-        height: 22
+        x: 256
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -769,12 +769,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_19
       rect:
         serializedVersion: 2
-        x: 226
-        y: 163
-        width: 8
-        height: 6
+        x: 288
+        y: 256
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -791,12 +791,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_20
       rect:
         serializedVersion: 2
-        x: 231
-        y: 159
-        width: 20
-        height: 16
+        x: 0
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -813,12 +813,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_21
       rect:
         serializedVersion: 2
-        x: 258
-        y: 159
-        width: 27
-        height: 9
+        x: 32
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -835,12 +835,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_22
       rect:
         serializedVersion: 2
-        x: 289
-        y: 159
-        width: 28
-        height: 6
+        x: 64
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -857,12 +857,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_23
       rect:
         serializedVersion: 2
-        x: 6
-        y: 127
-        width: 18
-        height: 33
+        x: 96
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -879,12 +879,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_24
       rect:
         serializedVersion: 2
-        x: 6
-        y: 95
-        width: 18
-        height: 33
+        x: 128
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -901,12 +901,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_25
       rect:
         serializedVersion: 2
-        x: 38
-        y: 127
-        width: 18
-        height: 33
+        x: 160
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -923,12 +923,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_26
       rect:
         serializedVersion: 2
-        x: 38
-        y: 95
-        width: 17
-        height: 33
+        x: 192
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -945,12 +945,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_27
       rect:
         serializedVersion: 2
-        x: 69
-        y: 95
-        width: 19
-        height: 33
+        x: 224
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -967,12 +967,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_28
       rect:
         serializedVersion: 2
-        x: 71
-        y: 127
-        width: 16
-        height: 33
+        x: 256
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -989,12 +989,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_29
       rect:
         serializedVersion: 2
-        x: 101
-        y: 95
-        width: 19
-        height: 33
+        x: 288
+        y: 224
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1011,12 +1011,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_30
       rect:
         serializedVersion: 2
-        x: 103
-        y: 127
-        width: 16
-        height: 33
+        x: 0
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1033,12 +1033,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_31
       rect:
         serializedVersion: 2
-        x: 133
-        y: 95
-        width: 19
-        height: 33
+        x: 32
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1055,12 +1055,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_32
       rect:
         serializedVersion: 2
-        x: 135
-        y: 127
-        width: 16
-        height: 33
+        x: 64
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1077,12 +1077,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_33
       rect:
         serializedVersion: 2
-        x: 165
-        y: 95
-        width: 19
-        height: 33
+        x: 96
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1099,12 +1099,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_34
       rect:
         serializedVersion: 2
-        x: 166
-        y: 127
-        width: 17
-        height: 33
+        x: 128
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1121,12 +1121,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_35
       rect:
         serializedVersion: 2
-        x: 197
-        y: 95
-        width: 20
-        height: 33
+        x: 160
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1143,12 +1143,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_36
       rect:
         serializedVersion: 2
-        x: 198
-        y: 127
-        width: 18
-        height: 33
+        x: 192
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1165,12 +1165,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_37
       rect:
         serializedVersion: 2
-        x: 229
-        y: 95
-        width: 26
-        height: 33
+        x: 224
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1187,12 +1187,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_38
       rect:
         serializedVersion: 2
-        x: 230
-        y: 127
-        width: 18
-        height: 33
+        x: 256
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1209,12 +1209,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_39
       rect:
         serializedVersion: 2
-        x: 260
-        y: 95
-        width: 28
-        height: 65
+        x: 288
+        y: 192
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1231,12 +1231,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_40
       rect:
         serializedVersion: 2
-        x: 287
-        y: 95
-        width: 33
-        height: 33
+        x: 0
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1253,12 +1253,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_41
       rect:
         serializedVersion: 2
-        x: 294
-        y: 127
-        width: 18
-        height: 33
+        x: 32
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1275,12 +1275,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_42
       rect:
         serializedVersion: 2
-        x: 257
-        y: 111
-        width: 9
-        height: 11
+        x: 64
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1297,12 +1297,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_43
       rect:
         serializedVersion: 2
-        x: 277
-        y: 113
-        width: 10
-        height: 11
+        x: 96
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1319,12 +1319,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_44
       rect:
         serializedVersion: 2
-        x: 6
-        y: 63
-        width: 18
-        height: 33
+        x: 128
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1341,12 +1341,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_45
       rect:
         serializedVersion: 2
-        x: 6
-        y: 31
-        width: 18
-        height: 33
+        x: 160
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1363,12 +1363,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_46
       rect:
         serializedVersion: 2
-        x: 38
-        y: 63
-        width: 17
-        height: 33
+        x: 192
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1385,12 +1385,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_47
       rect:
         serializedVersion: 2
-        x: 39
-        y: 31
-        width: 17
-        height: 33
+        x: 224
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1407,12 +1407,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_48
       rect:
         serializedVersion: 2
-        x: 71
-        y: 63
-        width: 15
-        height: 33
+        x: 256
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1429,12 +1429,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_49
       rect:
         serializedVersion: 2
-        x: 71
-        y: 31
-        width: 18
-        height: 33
+        x: 288
+        y: 160
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1451,12 +1451,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_50
       rect:
         serializedVersion: 2
-        x: 102
-        y: 63
-        width: 17
-        height: 33
+        x: 0
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1473,12 +1473,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_51
       rect:
         serializedVersion: 2
-        x: 103
-        y: 31
-        width: 19
-        height: 33
+        x: 32
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1495,12 +1495,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_52
       rect:
         serializedVersion: 2
-        x: 134
-        y: 63
-        width: 18
+        x: 64
+        y: 128
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1517,12 +1517,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_53
       rect:
         serializedVersion: 2
-        x: 135
-        y: 31
-        width: 21
-        height: 33
+        x: 96
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1539,12 +1539,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_54
       rect:
         serializedVersion: 2
-        x: 164
-        y: 31
-        width: 27
-        height: 33
+        x: 128
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1561,12 +1561,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_55
       rect:
         serializedVersion: 2
-        x: 165
-        y: 63
-        width: 19
-        height: 33
+        x: 160
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1583,12 +1583,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_56
       rect:
         serializedVersion: 2
-        x: 196
-        y: 63
-        width: 21
-        height: 33
+        x: 192
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1605,12 +1605,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_57
       rect:
         serializedVersion: 2
-        x: 197
-        y: 26
-        width: 21
-        height: 38
+        x: 224
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1627,12 +1627,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_58
       rect:
         serializedVersion: 2
-        x: 229
-        y: 63
-        width: 20
-        height: 33
+        x: 256
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1649,12 +1649,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_59
       rect:
         serializedVersion: 2
-        x: 231
-        y: 31
-        width: 18
-        height: 33
+        x: 288
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1671,12 +1671,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_60
       rect:
         serializedVersion: 2
-        x: 261
-        y: 63
-        width: 20
-        height: 33
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1693,12 +1693,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_61
       rect:
         serializedVersion: 2
-        x: 263
-        y: 31
-        width: 17
-        height: 33
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1715,12 +1715,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_62
       rect:
         serializedVersion: 2
-        x: 294
-        y: 63
-        width: 18
+        x: 64
+        y: 96
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1737,12 +1737,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_63
       rect:
         serializedVersion: 2
-        x: 294
-        y: 31
-        width: 18
-        height: 33
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1759,12 +1759,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_64
       rect:
         serializedVersion: 2
-        x: 6
-        y: 0
-        width: 18
+        x: 128
+        y: 96
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1781,12 +1781,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_65
       rect:
         serializedVersion: 2
-        x: 37
-        y: 0
-        width: 20
+        x: 160
+        y: 96
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1803,12 +1803,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_66
       rect:
         serializedVersion: 2
-        x: 69
-        y: 0
-        width: 21
+        x: 192
+        y: 96
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1825,12 +1825,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_67
       rect:
         serializedVersion: 2
-        x: 100
-        y: 0
-        width: 23
+        x: 224
+        y: 96
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1847,12 +1847,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_68
       rect:
         serializedVersion: 2
-        x: 131
-        y: 0
-        width: 24
+        x: 256
+        y: 96
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1869,12 +1869,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_69
       rect:
         serializedVersion: 2
-        x: 163
-        y: 0
-        width: 24
+        x: 288
+        y: 96
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1891,12 +1891,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_70
       rect:
         serializedVersion: 2
-        x: 195
-        y: 0
-        width: 24
-        height: 26
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1913,12 +1913,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_71
       rect:
         serializedVersion: 2
-        x: 226
-        y: 3
-        width: 8
-        height: 6
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1935,12 +1935,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_72
       rect:
         serializedVersion: 2
-        x: 229
-        y: 0
-        width: 24
-        height: 18
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1957,12 +1957,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_73
       rect:
         serializedVersion: 2
-        x: 258
-        y: 0
-        width: 26
-        height: 10
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1979,12 +1979,12 @@ TextureImporter:
       name: wizard spritesheet calciumtrice_74
       rect:
         serializedVersion: 2
-        x: 289
-        y: 0
-        width: 28
-        height: 5
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1997,11 +1997,561 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89867b72e5bfb2e41abfee19ee4a162f
+      internalID: 939919021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288393a98503f554fb6e595911f437d1
+      internalID: -1026789200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568aa35663278e04cace0fdc1f686b48
+      internalID: -1721588822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f339e624ec8fdc44800a87507e6c604
+      internalID: 1511348036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ff02399af84341ae4a453518b5262
+      internalID: -1507669727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea4b84f63d0e1f488f4c676e1ac199d
+      internalID: -1246319166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bfb6ee6f5aaa34ea198737b83d55e1
+      internalID: -1870448384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0cfe2ea65f6ca42ae5a9e6ef8f577e
+      internalID: -1565315868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dbb25ba4776f5489b9a02cc65b05ad
+      internalID: 1823425355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8025d1f7aba0ce540a6c09b233b9ac5e
+      internalID: 528392625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7173bf61aa0196e41a20584f41596d61
+      internalID: -1925746648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de5843a3f0173741818cbc7489138c2
+      internalID: 1318018479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddef8ee4c0c3b94d93888fd070ba2ec
+      internalID: 671918497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4a58ed1cc192d4391f95b710064ffb
+      internalID: -1336654543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df49415dfa403648bb9270e45132bd7
+      internalID: -1910686348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c862915b7492f440b77d4f68792bad5
+      internalID: -1909018648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d41030bc36594f865f1373363420d
+      internalID: 318262513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cce20519abd7474a9cbd452b5c5520e
+      internalID: 514339506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94476cf5477ec0b4598227fc09e1e94f
+      internalID: -610596632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa43984e07cd76448ab9941605d20844
+      internalID: 1893171018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea825f4224243f2418425a2997cfde50
+      internalID: 1915000760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b518049c3e99a2f4cb0bb61392bc1c70
+      internalID: -689771111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a38b248c68b3442be93dd1635b492d
+      internalID: 163791903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb8ef542eaa1a04aa7ce1359fc0b27b
+      internalID: -1847262397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard spritesheet calciumtrice_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811cebd0f74ab074c9210456f9c9aa31
+      internalID: -1649275964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cbfe264f0650a534b939604ad13e06d6
     internalID: 0
     vertices: []
     indices: 
@@ -2009,7 +2559,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":10.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       wizard spritesheet calciumtrice_0: -2442318890399168463
       wizard spritesheet calciumtrice_1: 5269340484715444684
@@ -2084,8 +2636,33 @@ TextureImporter:
       wizard spritesheet calciumtrice_72: 5228104205485445632
       wizard spritesheet calciumtrice_73: 8273562789254958266
       wizard spritesheet calciumtrice_74: -1942703450759932944
+      wizard spritesheet calciumtrice_75: 939919021
+      wizard spritesheet calciumtrice_76: -1026789200
+      wizard spritesheet calciumtrice_77: -1721588822
+      wizard spritesheet calciumtrice_78: 1511348036
+      wizard spritesheet calciumtrice_79: -1507669727
       wizard spritesheet calciumtrice_8: -3406201576918509003
+      wizard spritesheet calciumtrice_80: -1246319166
+      wizard spritesheet calciumtrice_81: -1870448384
+      wizard spritesheet calciumtrice_82: -1565315868
+      wizard spritesheet calciumtrice_83: 1823425355
+      wizard spritesheet calciumtrice_84: 528392625
+      wizard spritesheet calciumtrice_85: -1925746648
+      wizard spritesheet calciumtrice_86: 1318018479
+      wizard spritesheet calciumtrice_87: 671918497
+      wizard spritesheet calciumtrice_88: -1336654543
+      wizard spritesheet calciumtrice_89: -1910686348
       wizard spritesheet calciumtrice_9: 588667612609551631
+      wizard spritesheet calciumtrice_90: -1909018648
+      wizard spritesheet calciumtrice_91: 318262513
+      wizard spritesheet calciumtrice_92: 514339506
+      wizard spritesheet calciumtrice_93: -610596632
+      wizard spritesheet calciumtrice_94: 1893171018
+      wizard spritesheet calciumtrice_95: 1915000760
+      wizard spritesheet calciumtrice_96: -689771111
+      wizard spritesheet calciumtrice_97: 163791903
+      wizard spritesheet calciumtrice_98: -1847262397
+      wizard spritesheet calciumtrice_99: -1649275964
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
